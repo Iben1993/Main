@@ -1,0 +1,36 @@
+Ez egy alapvető munkaáramlás, amely segít kezdeni az akciók
+
+név                                                 :                                               Ci
+
+A munkaáramlás mikor fog működni
+::
+                                              A munkaáramlást lökhárítja meg a lökéssel vagy húzza meg a kérési eseményeket, de csak a                                             "fő"                                             ágra                                           
+                                               erőlökés                                                  :
+                                               ágak                                                                 :                  [[[))[[[)))[[[)))[[)[[)))[[[[))))[[)[[)))[[[))[[[[))[))))[[[))[)[[[))[)))[[[))[[[[))[))))[[[))[[[)))[[[[))[))))[[[))[[[)))[[))[[[))[)))[[[))[[[)))[[)[[[[))[))[[)))))[[[))[[[)))[[[))[[[[)))[[)))))[[[))[[[)))[[)[[[[))[))[[)))))[[[[))[))[[[)))[[)[[[[))[))[[)))))[[[[))[))[[[))[[[))))[[)[[[[))[))[[)))))[[[[))[))[[                                   )  )  )                                         "fő"fő" ]]] ] ] ]
+                                              húzza meg a_-kérelmet                                                :
+                                           ágak                                                             :                  [[)[)[[[))[))[[[)))[[))[[[))[)[[[))))[[[))[[[))))[[[))[[[))))[[[))[[[)))[[[))[[[)))))[[[))[[[)))[[[))[[[))))[[[))[[[)))[[[)))))[[[))[[[)))[[[))[[[))))[[[))[[[)))[[[))[[[))))))[[[))[[[)))[[[))[[[))))[[[))[)))[[[))[[[)))[[[))[[[))))[[                                   )  ) )                                        "fő"fő" ]]] ] ] ]
+
+                                 A munkaáramlást manuálisan futtatja az Akciók taból                               
+                                 a munkaáramlás_küldése                                    :
+
+A munkaáramlás egy vagy több olyan munkahelyből áll,                                amely sequential vagy párhuzamosan működhet                              
+munkahelyek:
+                                 Ez a munkaáramlás egyetlen                                "építkezési"                                című munkát tartalmaz.                              
+                               építkezés                                  :
+                              A futó típusa                          ,                           hogy a munka fog futni                         
+                           tovább                                                :                   ubuntu-legújabb
+
+                           A lépések olyan feladatok sorozatát képviselik                       ,                        amelyeket a munka részeként végeznek el                      
+                         lépések                            :
+ A GITHUB WORKSPACE alatt lévő adattárat ,                        így a munkája hozzáférhet hozzá.                      
+                             -                        használ                :                 a a 64; v3-as intézkedések/ellenőrzés
+
+                            A futók héjjal egyetlen parancsnokságot fut                      
+                             -                        név                 :                 Egy egysoros forgatókönyv futása
+                       futás                                             :                  Visszó helló,                      világ!                    
+
+                          A futók héját használva parancskészleteket futtatja                    
+                            -                       név                  :                 Egy többsoros forgatókönyv futása
+                      futás                                            :                  |
+                    visszhang egyéb intézkedések hozzáadása az építkezéshez                  , 
+                   visszhangvizsgálat                   ,                   és telepítse ki a projektjét.                 
